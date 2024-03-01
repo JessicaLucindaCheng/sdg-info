@@ -1,4 +1,4 @@
-# Project title and description
+# SDG-Info
 
 This repo houses all the images needed for the SDGs and all text for goals, targets and indicators. 
 
