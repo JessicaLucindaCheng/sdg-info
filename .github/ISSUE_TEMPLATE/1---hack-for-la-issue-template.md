@@ -1,5 +1,5 @@
 ---
-name: Blank Issue
+name: 1 - Hack for LA Issue Template
 about: Consistent formatting make Issues concise and easy to navigate
 title: ''
 labels: documentation, good first issue, help wanted, question
