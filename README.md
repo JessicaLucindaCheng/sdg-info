@@ -1,40 +1,30 @@
 # SDG-Info
 
-This repo houses all the images needed for the SDGs and all text for goals, targets and indicators. 
+This repository houses all the images needed for the United Nations (UN) Sustainable Development Goals (SDGs), hex color values for each goal's icon, and all text for goals, targets and indicators. These images and the information have been pulled from the https://sdgs.un.org/. 
 
 SDG-info is a project of Hack for LA. Hack for LA is a project of Civic Tech Structure, Inc 501(c)(3).
 
-### Project context
+SHOULD THIS BE ADDED?????????????????
+Disclaimer: SDG-info is not associated with the UN and is provided only as a resource. For official update-to-date UN SDGs guidelines, see https://www.un.org/sustainabledevelopment/news/communications-material/.
+
+### Project Context
 
 Hack for LA is aligning projects with SDGs.  In order to do that we need a central repository to store all the SDG info, so that we can access it on various projects.
 
-### Technology used (WIP)
+### How the Repo Is Organized
 
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
+- "colors" directory contains hex color resources for each SDG.
+  - SHOULD WE ADD???? csv or plain text file with just sdg number and hex values
+- "images" directory contains the images for each SDG, Los Angeles's SDG logo (sdg-la.svg), and 
+  - SHOULD WE ADD??? SDG non-UN entity logos?
+- "info" directory contains all the text for goals, targets and indicators.
 
+# How to Contribute
+See the [CONTRIBUTING.md](/CONTRIBUTING.md).
 
+# Contact Info
 
-# How to contribute 
-
-This repository is managed by the website team.  
-
-- See our getting started page on how to join Hack for LA https://www.hackforla.org/getting-started.
-- Join the website team
-- If you want to be assigned to an existing issue
-  - In the proceess of working your way up the ladder of issues, pick up a ticket with the label [`p-feature: SDGs` on prioritized backlog](https://github.com/hackforla/website/projects/7?card_filter_query=label%3A%22p-feature%3A+sdgs%22#column-7198257)
-- If you have noticed something that need to be made into an issue
-  - Make sure the issue does not exist yet by reviewing all our open issues with the label [`p-feature: SDGs`](https://github.com/hackforla/website/labels/p-feature%3A%20SDGs)
-  - [Create an Emergent Request Issue](https://github.com/hackforla/website/issues/new?assignees=&labels=Complexity%3A+Missing%2C+ER%2C+Feature+Missing%2C+role+missing%2C+size%3A+0.25pt&projects=&template=emergent-request.md&title=ER%3A+%5Breplace+with+info+%5D+)
-
-## Installation instructions
-
-See the [website team's CONTRIBUTING.md](https://github.com/hackforla/website/blob/gh-pages/CONTRIBUTING.md) file for general instructions about how to fork, clone, and contribute to a repo and extrapolate for this repo
-
-
-# Contact info
-
-- If you are a member of Hack for LA, use our Slack channel #hfla-site, otherwise open an ER and explain how we can help you (after you have read the How to contribute section above).
+- If you are a member of Hack for LA, use our Slack channel #hfla-site, otherwise open an ER and explain how we can help you (after you have read the [CONTRIBUTING.md](/CONTRIBUTING.md)).
 
 
 ### Licensing
