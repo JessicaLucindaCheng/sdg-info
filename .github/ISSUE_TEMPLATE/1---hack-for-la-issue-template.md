@@ -10,6 +10,9 @@ assignees: ''
 ### Overview
 REPLACE THIS TEXT -Text here that clearly states the purpose of this issue in 2 sentences or less.
 
+#### Details
+REPLACE THIS TEXT - Text and potentially images here that provide necessary additional details
+
 ### Action Items
 REPLACE THIS TEXT -If this is the beginning of the task this is most likely something to be researched and documented.
 
