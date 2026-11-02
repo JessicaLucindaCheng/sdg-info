@@ -28,7 +28,7 @@ If you notice something that could be improved and want to submit a pull request
 
 ## Q & A  
 - Q: Why might it not receive approval?  
-- A: The repo is being used by the Hack for LA Website team, to deliver images of the SDGs and text details about them (Goals, Targets, and Indicators), to webpages. Before we can approve the change, we will need to verify that it won't break anything on that repo.
+  - A: The repo is being used by the Hack for LA Website team, to deliver images of the SDGs and text details about them (Goals, Targets, and Indicators), to webpages. Before we can approve the change, we will need to verify that it won't break anything on that repo.
 
 # Contact Info
 - If you are a member of Hack for LA, use our #admin Slack channel.
