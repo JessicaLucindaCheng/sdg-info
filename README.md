@@ -1,7 +1,7 @@
 # SDG-Info
 This repository (repo) contains images, hex color resources, and text for the United Nations Sustainable Development Goals (SDGs), including their goals, targets, and indicators. The information and images are sourced from the [United Nations (UN) SDGs website](https://sdgs.un.org/). 
 
-SDG-info is a project of Hack for LA. Hack for LA is a project of Civic Tech Structure, Inc 501(c)(3). The Hack for LA Website Team manages this repo.
+SDG-info is a project of Hack for LA. Hack for LA is a project of Civic Tech Structure, Inc 501(c)(3). The Hack for LA Website team manages this repo.
 
 _Disclaimer_: SDG-info is not associated with the UN and is provided only as a resource. For official up-to-date UN SDGs guidelines, see the [UN SDGs Communication Materials webpage](https://www.un.org/sustainabledevelopment/news/communications-material/).
 
